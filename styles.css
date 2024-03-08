@@ -1,0 +1,57 @@
+body {
+    background-color: #F9F7F1;
+}
+#northcoders-img {
+    width: 30px;
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+#languages-img {
+    width: 40%;
+    height: auto;
+    position: absolute;
+    right: 55%;
+}
+
+* {
+    font-family: "Poppins";
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 0px;
+}
+
+h3 {
+    font-size: 8px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+* {
+    font-size: 14px;
+}
+
+a {
+    font-size: 16px;
+    color: orange;
+}
+
+ol, ul {
+    color: blue;
+    list-style-type: none;
+}
+
+div {
+    text-align: right;
+}
